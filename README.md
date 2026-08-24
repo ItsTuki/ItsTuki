@@ -13,23 +13,59 @@
 <h2>Sobre mí 😃</h2>
 <!--Intro start-->
 <p align="left">
-🎓 Ing. INFORMÁTICO <br>
-💻 INTENTO DE STREAMER LA VERDA XD
+🎓 <b>Ing. INFORMÁTICO</b> <br>
+💻 <b>INTENTO DE STREAMER LA VERDA XD</b>
 </p>
 <!--Intro end-->
 
 <br>
 
-<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+
+<h2>Tecnologías e Infraestructura 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,py,css,html,js,mysql,sqlite,git,github,docker,postman,vscode,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,php,js,html,css,mysql,sqlite,docker,aws,linux,bash,git,github,postman,vscode,androidstudio,ai,ps&perline=10" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pterodactyl-Panel-0582CA?style=flat-square&logo=pterodactyl&logoColor=white" alt="Pterodactyl" />
+  <img src="https://img.shields.io/badge/SSH-Remote_Access-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="SSH" />
+  <img src="https://img.shields.io/badge/VPS-Management-000000?style=flat-square&logo=linux&logoColor=white" alt="VPS" />
+  <img src="https://img.shields.io/badge/Minecraft-Plugin_Dev-2B9348?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft" />
 </p>
 
 <br>
 <!-------------------------->
+<h2>Proyectos & Experiencia 🚀</h2>
+<!--Projects start-->
+<ul>
+  <li>
+     <b>Minecraft Server :</b>
+    <ul>
+      <li>Desarrollo y programación de <b>custom plugins</b> en Java.</li>
+      <li>Administración y mantenimiento de servidores </li>
+    </ul>
+  </li>
+  <li>
+     <b>SysAdmin & Panel Management:</b>
+    <ul>
+      <li>Instalación, configuración y administración de paneles <b>Pterodactyl</b> </li>
+    </ul>
+  </li>
+  <li>
+    <b>Infraestructura & Servidores:</b>
+    <ul>
+      <li>Despliegue y gestión en <b>AWS</b> y <b>VPS</b> </li>
+      <li>Administración remota segura y automatización mediante <b>SSH</b>.</li>
+    </ul>
+  </li>
+</ul>
+<!--Projects end-->
+
+<br>
+
 <!--- stats & Trophy (start) -->
 <table align="left">
   <tr>
@@ -48,7 +84,7 @@
 <!--- trophy (start) -->
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt=" " />
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
 <!--- trophy (end) -->
