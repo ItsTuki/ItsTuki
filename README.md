@@ -21,12 +21,26 @@ Soy **Anibal**, aunque en internet me conocen como **Tuki**. Estudio **Ingenier�
 - 🧩 **Backend:** APIs REST y microservicios con Java y Spring Boot.
 - 📱 **Mobile:** apps Android con Kotlin, Jetpack Compose y trabajo sin conexión.
 - ⛏️ **Minecraft:** plugins personalizados para servidores Paper y administración de servidores.
+- 🤖 **Discord:** creador de [TukiBot](https://github.com/ItsTuki/Bot-Discord), bot de música verificado por Discord.
 - 🖥️ **Infraestructura:** VPS, AWS, paneles Pterodactyl, SSH y despliegues en Cloudflare Workers.
 - 🎥 En mis ratos libres hago stream en Twitch y YouTube.
 
 ## 🚀 Proyectos destacados
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/ItsTuki/Bot-Discord">🎵 TukiBot</a> <img src="https://img.shields.io/badge/%E2%9C%93_Bot_verificado-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Bot verificado en Discord" /></h3>
+      Bot de música para Discord, <b>verificado por Discord</b>. Reproduce YouTube, Spotify, SoundCloud y Twitch con comandos slash, panel con botones, sugerencias mientras escribes, cola justa, letras y rol de DJ. Es una versión modernizada de JMusicBot, migrada a JDA 6 con el cifrado de voz DAVE.
+      <br><br>
+      <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JDA_6-5865F2?style=flat-square&logo=discord&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lavaplayer-2B2D31?style=flat-square" />
+      <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+      <img src="https://img.shields.io/github/v/release/ItsTuki/Bot-Discord?style=flat-square&label=versi%C3%B3n&color=2CB67D" alt="Última versión" />
+      <br><a href="https://discord.com/oauth2/authorize?client_id=1093304936885923910"><b>➕ Agregar TukiBot a tu servidor</b></a> · <a href="https://github.com/ItsTuki/Bot-Discord/releases/latest"><b>⬇ Descargar</b></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ItsTuki/itstuki-juegos">🎮 Sala de juegos</a></h3>
