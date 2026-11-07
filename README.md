@@ -44,8 +44,8 @@ Soy **Anibal**, aunque en internet me conocen como **Tuki**. Estudio **Ingenier�
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://poke.itstuki.cl">🔥 TukiBonk</a> <img src="https://img.shields.io/badge/nuevo-FF6FA8?style=flat-square" alt="Nuevo" /></h3>
-      Survivor roguelike en 3D que se juega en el navegador, también en el celular. Eliges un compañero entre cuatro criaturas originales, sobrevives a las hordas salvajes, subes de nivel eligiendo cartas de mejora, evolucionas dos veces y derrotas a tres jefes para desbloquear la Liga.
+      <h3><a href="https://poke.itstuki.cl">🔥 TukiBonk</a> <img src="https://img.shields.io/badge/v0.3.0-Alpha-B46BFF?style=flat-square" alt="v0.3.0 Alpha" /></h3>
+      Survivor roguelike en 3D que se juega en el navegador, también en el celular. Eliges una criatura, sobrevives a las hordas y superas <b>4 fases</b> con su propio terreno y jefe (pradera, cañón, tundra y volcán). Los ataques suben de nivel sin tope y evolucionan, las criaturas tienen 4 formas, y hay tienda de aspectos, 23 trofeos, Modo Infinito y criaturas secretas que se desbloquean con códigos.
       <br><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
