@@ -21,7 +21,7 @@ Soy **Anibal**, aunque en internet me conocen como **Tuki**. Estudio **Ingenier�
 
 - 🧩 **Backend:** APIs REST y microservicios con Java y Spring Boot.
 - 📱 **Mobile:** apps Android con Kotlin, Jetpack Compose y trabajo sin conexión.
-- ⛏️ **Minecraft:** plugins personalizados para servidores Paper y administración de servidores.
+- ⛏️ **Minecraft:** plugins personalizados para servidores Paper y Spigot (1.8.8 – 26.3) y administración de servidores.
 - 🤖 **Discord:** creador de [TukiBot](https://github.com/ItsTuki/Bot-Discord), bot de música verificado por Discord.
 - 🖥️ **Infraestructura:** VPS, AWS, paneles Pterodactyl, SSH y despliegues en Cloudflare Workers.
 - 🎥 En mis ratos libres hago stream en Twitch y YouTube.
@@ -75,19 +75,21 @@ Soy **Anibal**, aunque en internet me conocen como **Tuki**. Estudio **Ingenier�
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ItsTuki/tuki-uhc">⚔️ TukiUHC</a></h3>
-      Plugin de UHC por episodios para Paper: sin regeneración natural, 5 modos (PvP, Solitarios, Dragón, Trolls y Ratas, Resource Rush), equipos, rotación de skins, mini lobby con tops y estadísticas. Listo para network con BungeeCord/Velocity, inicio automático y PlaceholderAPI.
+      Plugin de UHC por episodios para Paper: sin regeneración natural, 5 modos (PvP, Solitarios, Dragón, Trolls y Ratas, Resource Rush), equipos, rotación de skins, mini lobby con tops y estadísticas. Listo para network con BungeeCord/Velocity, inicio automático y PlaceholderAPI. Edición Legacy para Spigot/Paper 1.8.8 – 26.3.
       <br><br>
       <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Paper_26.3-2B9348?style=flat-square" />
+      <img src="https://img.shields.io/badge/Legacy-1.8.8_%E2%80%93_26.3-7F5AF0?style=flat-square" />
       <img src="https://img.shields.io/github/v/release/ItsTuki/tuki-uhc?style=flat-square&label=versi%C3%B3n&color=2CB67D" alt="Última versión" />
       <br><a href="https://github.com/ItsTuki/tuki-uhc/releases/latest"><b>⬇ Descargar</b></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ItsTuki/tuki-core">🛡️ TukiCore</a></h3>
-      Núcleo administrativo para servidores Paper: rangos con prefijos (propios o sobre LuckPerms), chat con formato, staff chat, mute, vanish y detección del cliente con el que entra cada jugador. Compatible con TukiUHC.
+      Núcleo administrativo para servidores Paper: rangos con prefijos (propios o sobre LuckPerms), chat con formato, staff chat, mute, vanish y detección del cliente con el que entra cada jugador. Compatible con TukiUHC. Edición Legacy para Spigot/Paper 1.8.8 – 26.3.
       <br><br>
       <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Paper_26.3-2B9348?style=flat-square" />
+      <img src="https://img.shields.io/badge/Legacy-1.8.8_%E2%80%93_26.3-7F5AF0?style=flat-square" />
       <img src="https://img.shields.io/github/v/release/ItsTuki/tuki-core?style=flat-square&label=versi%C3%B3n&color=2CB67D" alt="Última versión" />
       <br><a href="https://github.com/ItsTuki/tuki-core/releases/latest"><b>⬇ Descargar</b></a>
     </td>
