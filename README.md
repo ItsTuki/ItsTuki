@@ -8,12 +8,15 @@
 
 <p>
   <a href="https://itstuki.cl"><img src="https://img.shields.io/badge/Portafolio-itstuki.cl-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
-  <a href="mailto:tuki@itstuki.cl"><img src="https://img.shields.io/badge/Correo-tuki%40itstuki.cl-2CB67D?style=for-the-badge&logo=maildotru&logoColor=white" alt="Correo" /></a>
+  <a href="mailto:tuki@itstuki.cl"><img src="https://img.shields.io/badge/Correo-en%20mantenimiento-F2B705?style=for-the-badge&logo=maildotru&logoColor=black" alt="Correo en mantenimiento" /></a>
   <a href="https://juegos.itstuki.cl"><img src="https://img.shields.io/badge/Juegos-juegos.itstuki.cl-F25F4C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Sala de juegos" /></a>
   <a href="https://poke.itstuki.cl"><img src="https://img.shields.io/badge/TukiBonk-poke.itstuki.cl-FFC531?style=for-the-badge&logo=threedotjs&logoColor=black" alt="TukiBonk" /></a>
 </p>
 
 </div>
+
+> [!WARNING]
+> 🛠️ **El correo @itstuki.cl está en mantenimiento.** Estoy migrando el servidor de correo desde mi casa a una **VPS** para que sea más estable. Mientras dure el cambio, `tuki@itstuki.cl`, el [webmail](https://webmail.itstuki.cl) y los correos de [TukiBonk](https://poke.itstuki.cl) pueden no funcionar. Si necesitas algo, escríbeme por aquí en GitHub.
 
 ## 👋 Sobre mí
 
