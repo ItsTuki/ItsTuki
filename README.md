@@ -9,6 +9,7 @@
 <p>
   <a href="https://itstuki.cl"><img src="https://img.shields.io/badge/Portafolio-itstuki.cl-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
   <a href="mailto:tuki@itstuki.cl"><img src="https://img.shields.io/badge/Correo-en%20mantenimiento-F2B705?style=for-the-badge&logo=maildotru&logoColor=black" alt="Correo en mantenimiento" /></a>
+  <a href="https://correo.itstuki.cl"><img src="https://img.shields.io/badge/App-correo.itstuki.cl-8A6CFF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Tuki Correo" /></a>
   <a href="https://juegos.itstuki.cl"><img src="https://img.shields.io/badge/Juegos-juegos.itstuki.cl-F25F4C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Sala de juegos" /></a>
   <a href="https://poke.itstuki.cl"><img src="https://img.shields.io/badge/TukiBonk-poke.itstuki.cl-FFC531?style=for-the-badge&logo=threedotjs&logoColor=black" alt="TukiBonk" /></a>
 </p>
@@ -26,7 +27,8 @@ Soy **Anibal**, aunque en internet me conocen como **Tuki**. Estudio **Ingenier�
 - 📱 **Mobile:** apps Android con Kotlin, Jetpack Compose y trabajo sin conexión.
 - ⛏️ **Minecraft:** plugins personalizados para servidores Paper y Spigot (1.8.8 – 26.3) y administración de servidores.
 - 🤖 **Discord:** creador de [TukiBot](https://github.com/ItsTuki/Bot-Discord), bot de música verificado por Discord.
-- 🖥️ **Infraestructura:** VPS, AWS, paneles Pterodactyl, SSH y despliegues en Cloudflare Workers.
+- 📬 **Correo propio:** servidores Stalwart para mis dominios y [Tuki Correo](https://correo.itstuki.cl), una app de correo para Windows y Android.
+- 🖥️ **Infraestructura:** VPS, AWS, Raspberry Pi, paneles Pterodactyl, SSH y despliegues en Cloudflare Workers.
 - 🎥 En mis ratos libres hago stream en Twitch y YouTube.
 
 ## 🚀 Proyectos destacados
@@ -47,14 +49,27 @@ Soy **Anibal**, aunque en internet me conocen como **Tuki**. Estudio **Ingenier�
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://poke.itstuki.cl">🔥 TukiBonk</a> <img src="https://img.shields.io/badge/v0.3.0-Alpha-B46BFF?style=flat-square" alt="v0.3.0 Alpha" /></h3>
-      Survivor roguelike en 3D que se juega en el navegador, también en el celular. Eliges una criatura, sobrevives a las hordas y superas <b>4 fases</b> con su propio terreno y jefe (pradera, cañón, tundra y volcán). Los ataques suben de nivel sin tope y evolucionan, las criaturas tienen 4 formas, y hay tienda de aspectos, 23 trofeos, Modo Infinito y criaturas secretas que se desbloquean con códigos.
+      <h3><a href="https://poke.itstuki.cl">🔥 TukiBonk</a> <img src="https://img.shields.io/badge/v0.16.3-Alpha-B46BFF?style=flat-square" alt="v0.16.3 Alpha" /></h3>
+      Survivor roguelike en 3D que se juega en el navegador, también en el celular. Eliges una criatura, sobrevives a las hordas y derrotas a los jefes en <b>4 aventuras</b> (Praderas, Isla Cangrejo, Gamer y Retro). Se juega solo o en <b>multijugador de hasta 4</b> entre celular y PC, con dificultad a elección, cuentas con progreso en la nube, mejoras por criatura, logros con premio, recompensa diaria y un <b>Top 100</b> global.
       <br><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
       <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       <br><a href="https://poke.itstuki.cl"><b>▶ Jugar en poke.itstuki.cl</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://correo.itstuki.cl">📬 Tuki Correo</a> <img src="https://img.shields.io/badge/v1.2.0-Nuevo-8A6CFF?style=flat-square" alt="v1.2.0" /></h3>
+      App de correo para <b>Windows y Android</b> sobre mi propio servidor Stalwart. Entras con tu dirección y detecta sola el servidor de cada dominio. Las cuentas normales tienen su correo, carpetas y espacio en la nube; las de administrador suman un panel para crear cuentas, asignar cuotas y ver el almacenamiento. Muestra el porcentaje al subir adjuntos, avisa los límites de tamaño del servidor y <b>se actualiza sola</b>, contándote qué se mejoró.
+      <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+      <img src="https://img.shields.io/badge/JMAP-Stalwart-5B3FD9?style=flat-square" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <br><a href="https://correo.itstuki.cl"><b>⬇ Descargar en correo.itstuki.cl</b></a>
     </td>
   </tr>
   <tr>
@@ -143,7 +158,7 @@ Soy **Anibal**, aunque en internet me conocen como **Tuki**. Estudio **Ingenier�
   </tr>
   <tr>
     <td><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,androidstudio,flask,astro,tailwind,threejs&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,androidstudio,flask,astro,tailwind,threejs,electron&theme=dark" /></td>
   </tr>
   <tr>
     <td><b>Datos</b></td>
@@ -179,7 +194,7 @@ Soy **Anibal**, aunque en internet me conocen como **Tuki**. Estudio **Ingenier�
   <a href="https://www.youtube.com/@TheItsTuki"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://twitch.tv/theitstuki"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
   <a href="https://www.tiktok.com/@ItsTukiBot"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://instagram.com/tukibot"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/itstuki.cl"><img src="https://img.shields.io/badge/Instagram-@itstuki.cl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @itstuki.cl" /></a>
   <a href="https://x.com/theitstuki"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <img src="https://img.shields.io/badge/Discord-ItsTuki-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: ItsTuki" />
 </p>
